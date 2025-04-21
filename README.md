@@ -2,14 +2,14 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Welcome+to+my+GitHub!;" />
 </h1>
-
-##  **Currently working with..**
-<p align="center">
     
      🌱 I’m currently learning ...
      👯 I’m looking to collaborate on ...
      📫 How to reach me: ...
      ⚡ Fun fact: ...
+
+##  **Currently working with..** 
+<p align="center">
 <img align="center" src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,mongodb,java,python,docker,kubernetes,linux,git" />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
