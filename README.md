@@ -2,6 +2,22 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Welcome+to+my+GitHub!;" />
 </h1>
+
+##  **Currently working with..**
+<p align="center">
+    
+     🌱 I’m currently learning ...
+     👯 I’m looking to collaborate on ...
+     📫 How to reach me: ...
+     ⚡ Fun fact: ...
+<img align="center" src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,mongodb,java,python,docker,kubernetes,linux,git" />
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<p align="center">
+ <img align="center" src="https://streak-stats.demolab.com?user=traitor09&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="GitHub Streak"/>
+<a href="https://github.com/traitor09">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=traitor09&theme=dark&hide_border=false&border_radius=5" height="200em" />
+
 <!--
 **traitor09/traitor09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
