@@ -14,7 +14,9 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <p align="center">
- <img align="center" src="https://streak-stats.demolab.com?user=traitor09&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="GitHub Streak"/>
+
+[![Divyanshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=traitor09)](https://github.com/anuraghazra/github-readme-stats)
+    
 <a href="https://github.com/traitor09">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=traitor09&theme=dark&hide_border=false&border_radius=5" height="200em" />
 
