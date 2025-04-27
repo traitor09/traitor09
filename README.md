@@ -26,7 +26,7 @@
 
 <p align="center">
 <h2> Currently working with..
-<img align="center" src="https://skillicons.dev/icons?i=html,css,js,react,fastapi,githubactions,tailwind,vite,python,docker,mongodb,vscode,django,vscode,latex" />
+<img align="center" src="https://skillicons.dev/icons?i=html,css,js,react,fastapi,githubactions,tailwind,vite,python,docker,mongodb,vscode,django,nodejs,latex" />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <p align="center">
