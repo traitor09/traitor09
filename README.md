@@ -29,14 +29,8 @@
 <img align="center" src="https://skillicons.dev/icons?i=html,css,js,react,fastapi,githubactions,tailwind,vite,python,docker,mongodb,vscode,django,nodejs,latex" />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<p align="center">
 
-[![Divyanshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=traitor09)](https://github.com/anuraghazra/github-readme-stats)
-    
-<a href="https://github.com/traitor09">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=traitor09&theme=dark&hide_border=false&border_radius=5" height="200em" />
-
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/traitor09?cardType=github&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
 <!--
 **traitor09/traitor09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
