@@ -30,7 +30,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<img width = 380 align="right" src="https://raw.githubusercontent.com/traitor09/github-stats-transparent/refs/heads/output/generated/overview.svg"/>
+<img width = 500 align="center" src="https://raw.githubusercontent.com/traitor09/github-stats-transparent/refs/heads/output/generated/overview.svg"/>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <!--
