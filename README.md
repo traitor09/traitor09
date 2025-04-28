@@ -30,7 +30,9 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/traitor09?cardType=github&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
+<img width = 380 align="right" src="https://raw.githubusercontent.com/traitor09/github-stats-transparent/refs/heads/output/generated/overview.svg"/>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <!--
 **traitor09/traitor09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
