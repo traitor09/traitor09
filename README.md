@@ -11,10 +11,10 @@
 ## My Tech Stack & Tools
 
 ### 💻 Languages  
-`JavaScript` • `TypeScript` • `C++` • `Java` • `Python` • `HTML` • `CSS` • `Bash`
+`JavaScript` • `TypeScript` • `C++` • `Python` • `HTML` • `CSS` • `Bash`
 
 ### 🎨 Frontend  
-`React` • `Next.js` • `Tailwind CSS` • `Gradio(Python)` • `Streamlit`• `Bootstrap` • `Vite` • `Framer Motion`  
+`React` • `Next.js` • `Tailwind CSS` • `Streamlit`• `Bootstrap` • `Vite` • `Framer Motion`  
 `React Router` • `React Hook Form` • `React Query`
 
 ### ⚙️ Backend & APIs  
@@ -22,7 +22,7 @@
 `MCP Server` • `Google Calendar API` • `LangServe`
 
 ### 🗄 Databases  
-`MongoDB` • `MySQL` • `Mongoose` • `Astra DB` • `Pinecone` • `FAISS`
+`MongoDB` • `MySQL` • `Astra DB` • `Pinecone` 
 
 ### ☁️ DevOps & Platforms  
 `Docker` • `Git` • `GitHub` • `Postman` • `Render` • `Vercel` • `Google Cloud` • `AWS` • `Cloudflare`
@@ -33,12 +33,12 @@
 
 <center>
 <a href="https://cloud.layer5.io/user/89f8aba3-752b-47af-a3e8-f2e5c36b8649?tab=badges&badge=hacktoberfest25">
-  <img src="https://badges.layer5.io/assets/badges/hacktoberfest-contributor-2025/hacktoberfest25-badge.png" alt="Hacktoberfest 2025 Contributor" width="300"/>
+  <img src="https://badges.layer5.io/assets/badges/hacktoberfest-contributor-2025/hacktoberfest25-badge.png" alt="Hacktoberfest 2025 Contributor" width="200"/>
 </a>
 <a href="https://cloud.layer5.io/user/89f8aba3-752b-47af-a3e8-f2e5c36b8649?tab=badges&badge=first-design">
-  <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" width="300"/>
+  <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" width="200"/>
 </a></center>
 
-<img src="https://github.com/user-attachments/assets/4f847bed-7774-4161-b629-5f261f9187c1">
+<img src="https://github.com/user-attachments/assets/4f847bed-7774-4161-b629-5f261f9187c1" width="250"/>
 
 
